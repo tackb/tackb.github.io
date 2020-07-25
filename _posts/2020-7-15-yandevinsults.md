@@ -7,3 +7,5 @@ I saw a ytp and wanted to make something like this, I got a transcript of the vi
 
 ![_config.yml]({{ site.baseurl }}/images/yandev.jpg)
 
+https://www.youtube.com/watch?v=1kQtgcPVoDk
+
