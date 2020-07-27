@@ -4,4 +4,4 @@ title: Simp
 permalink: /Simp/
 ---
 
-#you're a simp
+# you're a simp
