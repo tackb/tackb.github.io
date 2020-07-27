@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simpsons
-permalink: /about/
+permalink: /Simp/
 ---
 
 ## Racist things in the Simpsons 
